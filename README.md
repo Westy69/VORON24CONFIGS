@@ -16,4 +16,5 @@ FOLLOW THIS GUIDE:
 
 WATCH THIS STEP BY STEP GUIDE ON SETUP OF KLIPPAIN - MY WALKTHOUGH
 https://youtu.be/7D8faZ4sHgs
+get my modified printer.cfg filre here: https://github.com/Westy69/VORON24CONFIGS/blob/main/printer.cfg
 
